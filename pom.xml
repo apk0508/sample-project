@@ -43,7 +43,7 @@
       <goal>java</goal>  
      </goals>  
      <configuration>  
-      <mainClasscom.paras:sample_project.App</mainClass>  
+      <mainClass>com.paras:sample_project.App</mainClass>  
      </configuration>  
     </execution>  
    </executions>  

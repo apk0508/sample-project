@@ -22,7 +22,7 @@ public class App
     	LOG.info("Hello World");
     	int a  =2 ;
     	if(a !=2 ) {
-    		Assert.fail("Wrong value);
+    		Assert.fail("Wrong value");
     	}
         
     }

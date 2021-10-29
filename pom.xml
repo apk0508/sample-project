@@ -41,12 +41,12 @@
                    <phase>test</phase>  
                    <goals>  
                     <goal>java</goal>  
-                   </goals>  
-                   <configuration>  
+                   </goals>
+                  </execution>  
+                 </executions>
+                <configuration>  
                     <mainClass>com.paras:sample_project.App</mainClass>  
                    </configuration>  
-                  </execution>  
-                 </executions>  
             </plugin>
         </plugins>
     </build>
